@@ -10,3 +10,5 @@ Add following to your `build.settings` to use:
     },
 }
 ```
+
+For detailed information about how to use this plug-in, please see http://happymongoosegames.co.uk/iapbadger.php.
